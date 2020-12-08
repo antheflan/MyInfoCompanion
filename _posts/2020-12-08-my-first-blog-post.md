@@ -1,6 +1,6 @@
 ---
 title: "Outline"
-date: 2020-12-05
+date: 2020-12-08
 ---
 Argumentation
 Junior AP English
