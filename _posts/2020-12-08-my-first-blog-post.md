@@ -2,9 +2,10 @@
 title: "Outline"
 date: 2020-12-05
 ---
-                                                  Argumentation
-                                              Junior AP English
-                                                         Verver
+Argumentation
+Junior AP English
+Verver
+
 Three Ways of Meeting Oppression
 by Martin Luther King, Jr., PhD
 Oppressed people deal with their oppression in three characteristic ways. One way is
@@ -135,4 +136,5 @@ going to jail. If such is the case the resister must be willing to fill the jail
 It may even mean physical death. But if physical death is the price that a man must pay to
 free his children and his white brethren from a permanent death of the spirit, then nothing
 could be more redemptive.
-                                              from Stride Toward Freedom, 1958
+
+from Stride Toward Freedom, 1958
